@@ -5,3 +5,4 @@ Angie Juliana Herrera Bernal -1020489337
 Julian Alberto David Goez - 1035879371  
 Diego ALejandRO Jaramillo- 1000756433**
 
+En el repositorio se subió, el diagrama UML utilizado, los archivos .ipynb y la grabacion  
